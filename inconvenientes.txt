@@ -1,0 +1,11 @@
+Challenge 1
+No recordaba como agrupar tuve que investigar
+
+Challenge 3
+Tuve que investigar como encadenar 3 inner join
+
+Challenge 4 
+Investigar como parcear el input a una instrucción en python ahi me di cuenta que se podian meter instrucciones de cualquier tipo.
+Pregunte con un amigo y me sugirió utilizar una expresión regular, no sabia como crear expresiones regulares por lo tanto
+busque en internet y encontre la expresión para aceptar numeros y agregue para aceptar operadores posteriormente tuve que investigar
+como podia integrar la paqueteria re
